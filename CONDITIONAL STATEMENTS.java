@@ -27,6 +27,28 @@ class HelloWorld {
 
     else
     System.out.println("fail");
+        
+     //switch 
+
+        
+    int day=1;
+    switch(day){
+        case 1 :
+        System.out.println("monday");
+        break;
+        
+        case 2 :
+        System.out.println("tuesday");
+        break;
+
+        default:
+        System.out.println("wed_sun");
+                
+        
+
+    }
+
+       
        
  }
 }
